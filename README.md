@@ -15,10 +15,10 @@ Salvador/BA
 * CSS
 
 # Nível
-- [] Estágio 
-- [] Júnior 
+- [ ] Estágio 
+- [ ] Júnior 
 - [x] Pleno 
-- [] Senior
+- [ ] Senior
 
 # Tipo de contratação
 - [x] PJ 
