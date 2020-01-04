@@ -7,12 +7,12 @@ Salvador/BA
 # Apresentação
 
 # Especialidades
-PHP
-JavaScript
-MySQL
-Wordpress
-HTML
-CSS
+* PHP
+* JavaScript
+* MySQL
+* Wordpress
+* HTML
+* CSS
 
 # Nível
 Estágio
