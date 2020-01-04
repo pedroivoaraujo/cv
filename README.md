@@ -15,13 +15,13 @@ Salvador/BA
 * CSS
 
 # Nível
-nivel = [] Estágio [] Júnior [X] Pleno [] Senior
+[] Estágio [] Júnior [x] Pleno [] Senior
 
 # Tipo de contratação
-contrato = [X] PJ [X] CLT [X] Freela
+[x] PJ [x] CLT [x] Freela
 
 # Tipo de trabalho
-tipo = [X] Remoto - parcial [X] Remoto - total [X] Alocado
+[x] Remoto - parcial [x] Remoto - total [x] Alocado
 
 # Contato
 pedroivoaraujo82@gmail.com
