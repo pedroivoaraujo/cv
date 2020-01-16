@@ -5,6 +5,7 @@ Pedro Ivo Vieira e Assis Araújo
 Salvador/BA
 
 # Apresentação
+Mais de 8 anos de experiência em desenvolvimento web. Domínio de boas práticas de programação e padrões de projeto. Vasta experiência em lecionar e coordenar cursos e equipes.
 
 # Especialidades
 * PHP
@@ -31,7 +32,4 @@ Salvador/BA
 - [x] Alocado
 
 # Contato
-pedroivoaraujo82@gmail.com
-
-# Site
-https://pedroivoaraujo.com.br
+pedro_ivo_araujo@hotmail.com
