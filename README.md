@@ -1,31 +1,26 @@
 # Nome completo
-Pedro Ivo Vieira e Assis Araújo
-
-# Função atual
-Consultor técnico e analista de sistemas na Companhia de Processamento de Dados do Estado da Bahia 
+Pedro Ivo Vieira e Assis Araújo 
 
 # Localidade
 Salvador/BA
 
 # Apresentação
-Mais de 12 anos de experiência como analista e desenvolvedor de sistemas. Domínio de boas práticas de programação e padrões de projeto. Vasta experiência em lecionar e coordenar cursos e equipes.
+Mais de 12 anos de experiência como analista e desenvolvedor de sistemas. Atua como Dev Fullstack PHP | Vue. Domínio de boas práticas de programação e padrões de projeto. Experiência em ensinar e coordenar cursos e equipes.
 
 # Especialidades
-* PHP
-* Laravel
-* Codeigniter
+* PHP (Laravel, Codeigniter)
 * JavaScript
 * Vue
 * MySQL
 * PostgreSQL
 * Wordpress
-* HTML5
-* CSS3
-* SCSS
+* HTML
+* CSS
 * Docker
-* Git
+* Git (Gitlab, Github, Bitbucket)
 * CI/CD
 * Linux
+* Kanban, Scrum
 
 # Nível
 - [ ] Estágio 
